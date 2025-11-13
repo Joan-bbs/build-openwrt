@@ -1,6 +1,8 @@
 
 # 云编译OpenWrt
 
+[![Build OpenWrt](https://github.com/Joan-bbs/build-openwrt/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/Joan-bbs/build-openwrt/actions/workflows/build-openwrt.yml)
+
 在线云编译，利用它可以省去本地搭建或者购买服务器的时间成本，你只需要使用本仓库的代码，按照下方的使用方法，修改一些参数，即可开始编译openwrt，等待几个小时后，你就可以下载固件了。
 
 说明：为了方便编译，做了一些修改，可以支持不同分支的opewrt源码，同时集成了打包img镜像的功能。
